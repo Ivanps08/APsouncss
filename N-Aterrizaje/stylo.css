@@ -49,3 +49,10 @@ body{
 .logof{
     text-align: center;
 }
+
+.logoo, 
+.logoin{
+    display: block;
+    width: 100px;
+    margin-left: 42.5%;
+}
